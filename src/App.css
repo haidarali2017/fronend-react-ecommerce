@@ -1,12 +1,13 @@
 #root {
-  max-width: 1280px;
+  /* max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  text-align: center; */
 }
 .navbar-nav a {
   text-decoration: none !important;
   padding: 10px;
+  color: aliceblue;
 }
 .logo {
   height: 6em;
