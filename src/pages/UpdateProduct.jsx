@@ -4,7 +4,7 @@ function UpdateProduct() {
     return (
       <div>
      
-     <h1>UpdateProduct page</h1>
+     <h1>Update Product page</h1>
          
       </div>
     )    
